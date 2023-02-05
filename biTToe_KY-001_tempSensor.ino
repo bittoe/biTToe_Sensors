@@ -9,7 +9,6 @@ OneWire ds(10);  // on pin 10
 int HighByte, LowByte;
 int TReading;
 int SignBit;
-int Tc_100;
 float Tc_Float;
  
 byte i;
